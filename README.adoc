@@ -10,8 +10,6 @@ image:https://img.shields.io/badge/857146133-brightgreen.svg[link="https://qm.qq
 *访问次数:*
 image:https://komarev.com/ghpvc/?username=livk-cloud[link="https://github.com/livk-cloud")]
 
-image:https://profile-counter.glitch.me/livk-cloud/count.svg[link="https://github.com/livk-cloud")]
-
 image:https://github-readme-stats.vercel.app/api/top-langs/?username=livk-cloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true[]
 
 image:https://github-readme-stats.vercel.app/api?username=livk-cloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true[]
