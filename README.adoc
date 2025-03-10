@@ -1,12 +1,12 @@
-image:https://img.shields.io/badge/Spring%20Framework-green[link="https://spring.io/projects/spring-framework"]
-image:https://img.shields.io/badge/Spring%20Boot-green[link="https://spring.io/projects/spring-boot"]
-image:https://img.shields.io/badge/Gradle-blue[link="https://gradle.org/"]
-image:https://img.shields.io/badge/Java-blue[link="https://openjdk.org/"]
-image:https://img.shields.io/badge/Kotlin-purple[link="https://kotlinlang.org/"]
+image:https://img.shields.io/badge/Spring%20Framework-green[link="https://spring.io/projects/spring-framework"]{nbsp}
+image:https://img.shields.io/badge/Spring%20Boot-green[link="https://spring.io/projects/spring-boot"]{nbsp}
+image:https://img.shields.io/badge/Gradle-blue[link="https://gradle.org/"]{nbsp}
+image:https://img.shields.io/badge/Java-blue[link="https://openjdk.org/"]{nbsp}
+image:https://img.shields.io/badge/Kotlin-purple[link="https://kotlinlang.org/"]{nbsp}
 
 *QQ群:*
 image:https://img.shields.io/badge/857146133-brightgreen.svg[link="https://qm.qq.com/cgi-bin/qm/qr?k=7mqPb8JcXoDpFkk4Vx7CcFFrIXrIxbVE&jump_from=webapi&authKey=twOCFhCWeYIiP4DNWM91BjGcPXuxpWikyk2Dh+fFctht5xcvT9N8PUsVMUcKQvJf"]
-
+{nbsp}
 *访问次数:*
 image:https://komarev.com/ghpvc/?username=livk-cloud[link="https://github.com/livk-cloud")]
 
