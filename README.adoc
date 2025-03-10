@@ -9,6 +9,10 @@ image:https://img.shields.io/badge/857146133-brightgreen.svg[link="https://qm.qq
 *访问次数:*
 image:https://komarev.com/ghpvc/?username=livk-cloud[link="https://github.com/livk-cloud")]
 
-image:https://github-readme-stats.vercel.app/api/top-langs/?username=livk-cloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true[]
+image:https://repository-contribution-stats.vercel.app/api?username=livk-cloud&hide=B&theme=dark&combine_all_yearly_contributions=true&order_by=stars&hide_contributor_rank=false&width=400&icon_padding_x=0[]
 
-image:https://github-readme-stats.vercel.app/api?username=livk-cloud&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true[]
+image:https://streak-stats.demolab.com?user=KouShenhai&locale=zh_Hans&theme=dark[]
+
+image:https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=livk-cloud&theme=dark[]
+
+image:https://github-readme-activity-graph.vercel.app/graph?username=livk-cloud&theme=react-dark&bg_color=000000&hide_border=true[]
